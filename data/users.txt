@@ -1,0 +1,3 @@
+admin,admin123,1
+user1,user123,0
+user2,user123,0 
