@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "book_management.h": "c",
+    "stdio.h": "c",
+    "client_core.h": "c"
+  }
+}

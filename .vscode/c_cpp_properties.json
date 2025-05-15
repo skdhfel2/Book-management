@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/library_client/include",
+        "${workspaceFolder}/library_client/src"
+      ],
+      "defines": [],
+      "compilerPath": "C:/MinGW/bin/gcc.exe",  
+      "cStandard": "c99",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
